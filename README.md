@@ -1,2 +1,2 @@
 # gmaducdoc.github.io
-Personal website, https://gillianm.me 
+Personal website, www.gillianm.me 
